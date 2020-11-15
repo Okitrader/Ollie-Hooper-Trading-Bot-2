@@ -3,7 +3,7 @@ from alpha_model import ValueAlphaModel
 from portfolio_construction import OptimisationPortfolioConstructionModel
 from execution import Execution
 from charting import InitCharts, PlotPerformanceChart, PlotPosConcentrationChart
-
+#new comment
 class TradingBot(QCAlgorithm):
 
     def Initialize(self):
